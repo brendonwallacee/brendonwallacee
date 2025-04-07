@@ -1,7 +1,7 @@
 # Hi! I’m Brendon!
 I'm 23 years old, ASD student(Analysis and Systems Development).
 
-I'm really into technologies, so there's nothing better that study software development and AI!:grin:
+I'm really into technologies, so there's nothing better that study software development and AI! 😁
 
 I’m currently learning Data Science + Graphics Interface with Python, OOP(Object-Oriented Programming) with Java and now I,m trying to learn about GIT.
 
