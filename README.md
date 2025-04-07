@@ -1,5 +1,5 @@
 # Hi! I’m Brendon!
-I'm 22 years old, ASD student(Analysis and Systems Development).
+I'm 23 years old, ASD student(Analysis and Systems Development).
 
 I'm really into technologies, so there's nothing better that study software development and AI!:grin:
 
