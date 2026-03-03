@@ -1,9 +1,9 @@
 # Hi! I’m Brendon!
-I'm 23 years old, ASD student(Analysis and Systems Development).
+I’m a Full Stack Developer with a degree in ASD (Systems Analysis and Development).
 
-I'm really into technologies, so there's nothing better that study software development and AI! 😁
+I’m truly passionate about technology, so there’s nothing better than studying software development and Artificial Intelligence! 😁
 
-I’m currently learning Data Science + Graphics Interface with Python, OOP(Object-Oriented Programming) with Java and now I,m trying to learn about GIT.
+Currently, I’m learning FastAPI and Next.js, while also putting CI/CD into practice to understand the entire software lifecycle — from the development stage to deployment in production.
 
 ## How to reach me?
 
